@@ -760,7 +760,7 @@
       {
         "AFDDataSourceName": "",
         "AutoRuleBindingEnabled": false,
-        "AutoRuleBindingString": "\"Texte\"",
+        "AutoRuleBindingString": "",
         "InvariantPropertyName": "Text",
         "IsLockable": false,
         "NameMapSourceSchema": "?"
@@ -800,7 +800,14 @@
       "LineHeight",
       "BorderThickness",
       "FocusedBorderThickness",
-      "Size",
+      {
+        "AFDDataSourceName": "",
+        "AutoRuleBindingEnabled": false,
+        "AutoRuleBindingString": "",
+        "InvariantPropertyName": "Size",
+        "IsLockable": false,
+        "NameMapSourceSchema": "?"
+      },
       "Italic",
       "Underline",
       "Strikethrough",

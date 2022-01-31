@@ -31,8 +31,8 @@ Screen1 As screen:
     Label2 As label:
         Align: =Align.Center
         Height: =93
-        Size: =50
-        Text: ="Bienvenue chez mister Joe & compagnie"
+        Size: =20
+        Text: ="Bienvenue chez mister Joe"
         Width: =Len(Self.Text)*10*(Self.Size/14)
         X: |
             =(Parent.Width-Self.Width)/2
