@@ -28,3 +28,9 @@ Screen1 As screen:
         Y: =590
         ZIndex: =3
 
+    Label2 As label:
+        Text: ="Label Josselin"
+        X: =1143
+        Y: =651
+        ZIndex: =4
+
