@@ -2,5 +2,6 @@ App As appinfo:
     BackEnabled: =false
     OnStart: |-
         =//Variable d'affichage du buton Mr joe
-        Set(glbVisibilityBnt2,false)
+        Set(glbVisibilityBnt2,false);
+        Set(varJoss, true);
 
