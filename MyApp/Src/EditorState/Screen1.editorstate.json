@@ -34,38 +34,10 @@
       "Width",
       "Height",
       "ZIndex",
-      {
-        "AFDDataSourceName": "",
-        "AutoRuleBindingEnabled": false,
-        "AutoRuleBindingString": "75",
-        "InvariantPropertyName": "RadiusTopLeft",
-        "IsLockable": false,
-        "NameMapSourceSchema": "?"
-      },
-      {
-        "AFDDataSourceName": "",
-        "AutoRuleBindingEnabled": false,
-        "AutoRuleBindingString": "75",
-        "InvariantPropertyName": "RadiusTopRight",
-        "IsLockable": false,
-        "NameMapSourceSchema": "?"
-      },
-      {
-        "AFDDataSourceName": "",
-        "AutoRuleBindingEnabled": false,
-        "AutoRuleBindingString": "75",
-        "InvariantPropertyName": "RadiusBottomLeft",
-        "IsLockable": false,
-        "NameMapSourceSchema": "?"
-      },
-      {
-        "AFDDataSourceName": "",
-        "AutoRuleBindingEnabled": false,
-        "AutoRuleBindingString": "75",
-        "InvariantPropertyName": "RadiusBottomRight",
-        "IsLockable": false,
-        "NameMapSourceSchema": "?"
-      },
+      "RadiusTopLeft",
+      "RadiusTopRight",
+      "RadiusBottomLeft",
+      "RadiusBottomRight",
       "BorderThickness",
       "FocusedBorderThickness",
       "Size",
@@ -593,7 +565,7 @@
     "LayoutName": "",
     "MetaDataIDKey": "",
     "Name": "Button2",
-    "ParentIndex": 2,
+    "ParentIndex": 1,
     "PersistMetaDataIDKey": false,
     "Properties": [
       {
