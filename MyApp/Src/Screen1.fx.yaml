@@ -8,7 +8,7 @@ Screen1 As screen:
         ZIndex: =1
 
     btn2 As button:
-        Height: =114
+        Height: =120
         RadiusBottomLeft: =Self.Height/2
         RadiusBottomRight: =Self.Height/2
         RadiusTopLeft: =Self.Height/2
