@@ -5,12 +5,14 @@
     "btn2": 5,
     "btnHey": 4,
     "Button1": 7,
+    "Button2": 9,
+    "Button2_1": 10,
     "Label1": 8,
     "Screen1": 3,
     "Screen2": 6
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "01/31/2022 10:06:30",
+  "HeaderLastSavedDateTimeUTC": "01/31/2022 10:10:29",
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
@@ -25,10 +27,12 @@
   },
   "PublishOrderIndices": {
     "App": 0,
-    "btn2": 4,
-    "btnHey": 3,
-    "Button1": 6,
-    "Label1": 0,
+    "btn2": 1,
+    "btnHey": 0,
+    "Button1": 3,
+    "Button2": 0,
+    "Button2_1": 0,
+    "Label1": 2,
     "Screen1": 2,
     "Screen2": 5
   },
@@ -37,7 +41,7 @@
   "VolatileProperties": {
     "AnalysisLoadTime": 0.0726731,
     "ControlCount": {
-      "button": 3,
+      "button": 4,
       "screen": 2
     },
     "DeserializationLoadTime": 0.4627303,

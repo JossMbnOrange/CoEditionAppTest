@@ -13,3 +13,10 @@ Screen2 As screen:
         Y: =200
         ZIndex: =2
 
+    Button2_1 As button:
+        OnSelect: =Navigate(Screen1, ScreenTransition.Fade)
+        Text: ="Screen 1"
+        X: =84
+        Y: =590
+        ZIndex: =3
+
