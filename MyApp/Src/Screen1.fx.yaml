@@ -13,7 +13,7 @@ Screen1 As screen:
         RadiusBottomRight: =Self.Height/2
         RadiusTopLeft: =Self.Height/2
         RadiusTopRight: =Self.Height/2
-        Size: =40
+        Size: =10
         Text: ="hello Mr Joe"
         Visible: =glbVisibilityBnt2
         Width: =947
