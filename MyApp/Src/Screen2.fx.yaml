@@ -1,40 +1,26 @@
 Screen2 As screen:
 
     Button1 As button:
+        Height: =60
         OnSelect: =Notify("Salut Gildas", NotificationType.Success, 2000)
-        Text: ="Test"
+        Text: ="Salut Gildas"
         X: =570
         Y: =324
         ZIndex: =1
 
-    Label1 As label:
-        Text: ="Test"
-        X: =570
-        Y: =200
-        ZIndex: =2
-
     Button2_1 As button:
+        BorderColor: =Self.Fill
+        Color: =RGBA(0, 0, 0, 1)
+        Fill: =RGBA(237, 235, 233, 1)
+        Height: =70
+        HoverFill: =ColorFade(Self.Fill, -20%)
         OnSelect: =Navigate(Screen1, ScreenTransition.Fade)
-        Text: ="Screen 1"
-        X: =84
-        Y: =590
+        RadiusBottomLeft: =1
+        RadiusBottomRight: =1
+        RadiusTopLeft: =1
+        RadiusTopRight: =1
+        Text: ="Go to Screen 1"
+        X: =39
+        Y: =678
         ZIndex: =3
-
-    Label1_1 As label:
-        Text: ="test Screen 2"
-        X: =1101
-        Y: =351
-        ZIndex: =4
-
-    Label3 As label:
-        Text: ="test3"
-        X: =40
-        Y: =52
-        ZIndex: =5
-
-    Button3 As button:
-        Text: ="test 3"
-        X: =40
-        Y: =91
-        ZIndex: =5
 

@@ -314,7 +314,7 @@
     "LayoutName": "",
     "MetaDataIDKey": "",
     "Name": "btnHey",
-    "ParentIndex": 1,
+    "ParentIndex": 0,
     "PersistMetaDataIDKey": false,
     "Properties": [
       {
@@ -760,7 +760,7 @@
       {
         "AFDDataSourceName": "",
         "AutoRuleBindingEnabled": false,
-        "AutoRuleBindingString": "",
+        "AutoRuleBindingString": "\"Texte\"",
         "InvariantPropertyName": "Text",
         "IsLockable": false,
         "NameMapSourceSchema": "?"
@@ -782,23 +782,9 @@
       "HoverFill",
       "Font",
       "FontWeight",
-      {
-        "AFDDataSourceName": "",
-        "AutoRuleBindingEnabled": false,
-        "AutoRuleBindingString": "",
-        "InvariantPropertyName": "Align",
-        "IsLockable": false,
-        "NameMapSourceSchema": "?"
-      },
+      "Align",
       "VerticalAlign",
-      {
-        "AFDDataSourceName": "",
-        "AutoRuleBindingEnabled": false,
-        "AutoRuleBindingString": "0",
-        "InvariantPropertyName": "X",
-        "IsLockable": false,
-        "NameMapSourceSchema": "?"
-      },
+      "X",
       "Y",
       {
         "AFDDataSourceName": "",
@@ -814,14 +800,7 @@
       "LineHeight",
       "BorderThickness",
       "FocusedBorderThickness",
-      {
-        "AFDDataSourceName": "",
-        "AutoRuleBindingEnabled": false,
-        "AutoRuleBindingString": "",
-        "InvariantPropertyName": "Size",
-        "IsLockable": false,
-        "NameMapSourceSchema": "?"
-      },
+      "Size",
       "Italic",
       "Underline",
       "Strikethrough",
@@ -840,7 +819,7 @@
     "LayoutName": "",
     "MetaDataIDKey": "",
     "Name": "Label2",
-    "ParentIndex": 0,
+    "ParentIndex": 1,
     "PersistMetaDataIDKey": false,
     "Properties": [
       {
