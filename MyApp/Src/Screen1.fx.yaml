@@ -8,7 +8,11 @@ Screen1 As screen:
         ZIndex: =1
 
     btn2 As button:
-        Height: =136
+        Height: =150
+        RadiusBottomLeft: =75
+        RadiusBottomRight: =75
+        RadiusTopLeft: =75
+        RadiusTopRight: =75
         Text: ="hello Mr Joe"
         Visible: =glbVisibilityBnt2
         Width: =866
