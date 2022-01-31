@@ -7,3 +7,9 @@ Screen2 As screen:
         Y: =324
         ZIndex: =1
 
+    Label1 As label:
+        Text: ="Test"
+        X: =570
+        Y: =200
+        ZIndex: =2
+
