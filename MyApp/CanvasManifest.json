@@ -77,9 +77,9 @@
     "DocumentType": "App",
     "EnableInstrumentation": false,
     "FileID": "f8664875-1e99-4cf7-9078-17d086652fde",
-    "Id": "2f6dd6f4-cd62-486f-bc35-a64f7a83f1d9",
+    "Id": "f77645f4-608c-4f3d-8932-07e1059302cb",
     "InstrumentationKey": "",
-    "Name": "CoEditionAppTest",
+    "Name": "CoEditionAppTest.msapp",
     "OriginatingVersion": "1.321"
   },
   "PublishInfo": {
