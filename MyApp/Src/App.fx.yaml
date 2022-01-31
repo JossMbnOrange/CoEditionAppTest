@@ -1,4 +1,6 @@
 App As appinfo:
     BackEnabled: =false
-    OnStart: =Set(glbVisibilityBnt2,false)
+    OnStart: |-
+        =Set(glbVisibilityBnt2,false);
+        Set(testVarJoss, true);
 
