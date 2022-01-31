@@ -29,8 +29,9 @@ Screen1 As screen:
         ZIndex: =3
 
     Label2 As label:
+        Height: =93
         Text: ="Bienvenue Chez mister Joe"
-        Width: =Len(Self.Text)*10
+        Width: =326
         X: =558
         Y: =28
         ZIndex: =4
