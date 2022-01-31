@@ -26,3 +26,9 @@ Screen2 As screen:
         Y: =351
         ZIndex: =4
 
+    Button3 As button:
+        Text: ="test 3"
+        X: =40
+        Y: =40
+        ZIndex: =5
+
