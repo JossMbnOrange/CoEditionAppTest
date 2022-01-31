@@ -32,7 +32,14 @@
       "X",
       "Y",
       "Width",
-      "Height",
+      {
+        "AFDDataSourceName": "",
+        "AutoRuleBindingEnabled": false,
+        "AutoRuleBindingString": "",
+        "InvariantPropertyName": "Height",
+        "IsLockable": false,
+        "NameMapSourceSchema": "?"
+      },
       "ZIndex",
       "RadiusTopLeft",
       "RadiusTopRight",
@@ -565,7 +572,7 @@
     "LayoutName": "",
     "MetaDataIDKey": "",
     "Name": "Button2",
-    "ParentIndex": 1,
+    "ParentIndex": 2,
     "PersistMetaDataIDKey": false,
     "Properties": [
       {
