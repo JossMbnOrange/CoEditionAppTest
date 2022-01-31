@@ -35,6 +35,6 @@ Screen1 As screen:
         Text: ="Bienvenue chez mister Joe & compagnie"
         Width: =Len(Self.Text)*10*(Self.Size/14)
         X: |
-            =0
+            =(Parent.Width-Self.Width)/2
         ZIndex: =4
 
