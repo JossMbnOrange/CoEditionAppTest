@@ -1,2 +1,18 @@
 Screen1 As screen:
 
+    btnHey As button:
+        OnSelect: =If(glbVisibilityBnt2=false,Set(glbVisibilityBnt2,true),Set(glbVisibilityBnt2,false))
+        Text: ="Hey"
+        X: =84
+        Y: =68
+        ZIndex: =1
+
+    btn2 As button:
+        Height: =136
+        Text: ="hello Mr Joe"
+        Visible: =glbVisibilityBnt2
+        Width: =866
+        X: =180
+        Y: =144
+        ZIndex: =2
+
