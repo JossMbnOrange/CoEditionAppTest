@@ -1,2 +1,9 @@
 Screen2 As screen:
 
+    Button1 As button:
+        OnSelect: =Notify("Salut Gildas", NotificationType.Success, 2000)
+        Text: ="Test"
+        X: =570
+        Y: =324
+        ZIndex: =1
+
