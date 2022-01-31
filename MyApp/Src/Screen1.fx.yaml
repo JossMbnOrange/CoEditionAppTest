@@ -3,8 +3,8 @@ Screen1 As screen:
     btnHey As button:
         OnSelect: =If(glbVisibilityBnt2=false,Set(glbVisibilityBnt2,true),Set(glbVisibilityBnt2,false))
         Text: ="Hey"
-        X: =84
-        Y: =68
+        X: =32
+        Y: =111
         ZIndex: =1
 
     btn2 As button:
@@ -29,10 +29,12 @@ Screen1 As screen:
         ZIndex: =3
 
     Label2 As label:
+        Align: =Align.Center
         Height: =93
-        Text: ="Bienvenue Chez mister Joe"
-        Width: =326
-        X: =558
-        Y: =28
+        Size: =50
+        Text: ="Bienvenue chez mister Joe & compagnie"
+        Width: =Len(Self.Text)*10*(Self.Size/14)
+        X: |
+            =0
         ZIndex: =4
 
