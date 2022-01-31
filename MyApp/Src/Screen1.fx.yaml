@@ -8,15 +8,16 @@ Screen1 As screen:
         ZIndex: =1
 
     btn2 As button:
-        Height: =186
+        Height: =114
         RadiusBottomLeft: =Self.Height/2
         RadiusBottomRight: =Self.Height/2
         RadiusTopLeft: =Self.Height/2
         RadiusTopRight: =Self.Height/2
+        Size: =40
         Text: ="hello Mr Joe"
         Visible: =glbVisibilityBnt2
-        Width: =845
-        X: =244
+        Width: =947
+        X: =160
         Y: =170
         ZIndex: =2
 

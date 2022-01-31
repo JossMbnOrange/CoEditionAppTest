@@ -40,7 +40,14 @@
       "RadiusBottomRight",
       "BorderThickness",
       "FocusedBorderThickness",
-      "Size",
+      {
+        "AFDDataSourceName": "",
+        "AutoRuleBindingEnabled": false,
+        "AutoRuleBindingString": "",
+        "InvariantPropertyName": "Size",
+        "IsLockable": false,
+        "NameMapSourceSchema": "?"
+      },
       "Italic",
       "Underline",
       "Strikethrough",
@@ -565,7 +572,7 @@
     "LayoutName": "",
     "MetaDataIDKey": "",
     "Name": "Button2",
-    "ParentIndex": 1,
+    "ParentIndex": 2,
     "PersistMetaDataIDKey": false,
     "Properties": [
       {
